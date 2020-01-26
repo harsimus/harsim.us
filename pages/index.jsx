@@ -1,4 +1,5 @@
 import Logo from '../components/Logo';
+import Moons from '../components/Moons';
 
 const Index = () => (
   <div>
@@ -16,6 +17,9 @@ const Index = () => (
           about fighting games. If you want more details you can check out my <a href="./public/MCMResume.pdf" download>resume&nbsp;</a>
           and feel free to <a href="mailto:michael@harsim.us">e-mail</a> me whenever.
         </p>
+      </div>
+      <div className = "footer">
+        <Moons />
       </div>
     </div>
 
@@ -43,10 +47,6 @@ const Index = () => (
           color: #A44ABC;
         }
 
-        a:visited {
-          color: #9F034A;
-        }
-
         .centered {
           position: fixed;
           top: 50%;
@@ -57,7 +57,13 @@ const Index = () => (
         .header {
           margin: 0 auto;
           text-align: center;
-          padding: 2.5% 
+          padding: 2.5%
+        }
+
+        .footer {
+          margin: 0 auto;
+          text-align: center;
+          padding-top: 10%
         }
 
         .content {
