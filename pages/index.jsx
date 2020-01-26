@@ -12,8 +12,8 @@ const Index = () => (
       </div>
       <div className = "content">
         <p>
-          I am a web developer currently building things with <a href="https://dialup.digital">DIAL UP Digital.&nbsp;</a>
-          In my free time I <a href="https://github.com/harsimus">code</a> and <a href="https://twitter.com/harsimus">tweet&nbsp;</a>
+          I am a web developer currently building things with <a href="https://dialup.digital" target="_blank">DIAL UP Digital.&nbsp;</a>
+          In my free time I <a href="https://github.com/harsimus" target="_blank">code</a> and <a href="https://twitter.com/harsimus" target="_blank">tweet&nbsp;</a>
           about fighting games. If you want more details you can check out my <a href="./public/MCMResume.pdf" download>resume&nbsp;</a>
           and feel free to <a href="mailto:michael@harsim.us">e-mail</a> me whenever.
         </p>
