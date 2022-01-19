@@ -16,6 +16,8 @@ const Index = () => (
           In my free time I <a href="https://github.com/harsimus" target="_blank">code</a> and <a href="https://twitter.com/harsimus" target="_blank">tweet&nbsp;</a>
           about fighting games. If you want more details you can check out my <a href="./public/MCMResume.pdf" download>resume&nbsp;</a>
           and feel free to <a href="mailto:michael@harsim.us">e-mail</a> me whenever.
+
+          New version coming soon!
         </p>
       </div>
       <div className = "footer">
